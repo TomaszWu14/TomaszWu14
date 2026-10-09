@@ -4,6 +4,13 @@ Buduję oprogramowanie dla logistyki i magazynu — od paletyzacji i modelu hali
 kontrolę jednostek logistycznych (HU) na skanerach, po kolejkę kontenerów i obieg
 dokumentów handlowych. Python (Django, Flask, FastAPI), PostgreSQL, Docker, CI/CD.
 
+## Interfejsy
+
+| | | |
+|---|---|---|
+| [![Skaner mini-WMS: picking palety z klawiaturą numeryczną](img/mini-wms-skaner.jpg)](https://github.com/TomaszWu14/mini-WMS)<br>**[mini-WMS](https://github.com/TomaszWu14/mini-WMS)** — skaner: praca jedną ręką, duże pola i klawiatura numeryczna zamiast pisania. | [![HugMe: strona startowa z pytaniem „Co jest trudne?”](img/hugme.jpg)](https://github.com/TomaszWu14/hugme)<br>**[hugme](https://github.com/TomaszWu14/hugme)** — WCAG 2.1 AA bez JavaScriptu: wysoki kontrast, większy tekst, prosty język. | [![PalViz: załadunek kartonów w kontenerze 40' w 3D](img/palviz.jpg)](https://github.com/TomaszWu14/palviz-portfolio)<br>**[palviz-portfolio](https://github.com/TomaszWu14/palviz-portfolio)** — własny design system dla kilkunastu modułów i widok 3D, który da się czytać operacyjnie. |
+| [![Kolejka kontenerów: historia zmian z audytem każdego pola](img/container-queue.jpg)](https://github.com/TomaszWu14/container-queue)<br>**[container-queue](https://github.com/TomaszWu14/container-queue)** — gęste tabele operacyjne w trzech językach, czytelne przy setkach kontenerów. | [![Trash Fairy: dashboard miasta z KPI i wykresami](img/trash-fairy.jpg)](https://github.com/TomaszWu14/trash-fairy)<br>**[trash-fairy](https://github.com/TomaszWu14/trash-fairy)** — mapy, PWA dla kierowcy i kiosk na koszu: jeden system, trzy bardzo różne ekrany. | [![Artwork Checker: porównywarka artworków opakowań](img/artwork-checker.jpg)](https://github.com/TomaszWu14/artwork-checker)<br>**[artwork-checker](https://github.com/TomaszWu14/artwork-checker)** — dziesiątki różnic między dwoma PDF podane tak, żeby od razu było widać te krytyczne. |
+
 ## Magazyn i logistyka
 
 | Projekt | Co robi | Stack |
